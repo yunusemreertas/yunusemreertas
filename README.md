@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Yunus</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 
 - 📫 Email **yunus29emre@outlook.com**
