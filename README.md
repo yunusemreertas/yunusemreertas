@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Yunus Emre</h1>
 <h3 align="center">A passionate software developer from Toronto, Canada.</h3>
 
-- 🌱 I’m currently enrolled in **University of Toronto's Full Stack Coding Bootcamp**
+- 🌱 I’m currently enrolled in **University of Toronto's Full Stack Coding Bootcamp.**
 
 - ⚡ Fun fact **I love fishing.**
 
