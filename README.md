@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I am Yunus Emre</h1>
 <h3 align="center">A passionate software developer from Toronto, Canada.</h3>
-
-- 🌱 I’m currently enrolled in **University of Toronto's Full Stack Coding Bootcamp.**
-
-- ⚡ Fun fact **I love fishing.**
+ 
+- ⚡ **I am a passionate and results-driven software developer based in Toronto, ON, with a strong focus on problem-solving and building complex software applications. I am eager to contribute my skills to a dynamic team that values collaboration, best practices, and innovative solutions. With a solid foundation in development and a keen interest in software development and support, I am looking for opportunities to expand my expertise and contribute to a wide range of technical challenges.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
