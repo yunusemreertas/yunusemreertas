@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Yunus Emre Ertas</h1>
  
-- ⚡ **I am a passionate and results-driven software developer based in Toronto, ON, with a strong focus on problem-solving and building complex software applications. I am eager to contribute my skills to a dynamic team that values collaboration, best practices, and innovative solutions. With a solid foundation in development and a keen interest in software development and support, I am looking for opportunities to expand my expertise and contribute to a wide range of technical challenges.**
+- ⚡ **I am a passionate and results-driven software developer based in Toronto, with a strong focus on problem-solving and building complex software applications. I am a Computer Programming graduate from Seneca College and am enhancing my skills through the Full Stack Web Development Bootcamp at the University of Toronto. I am eager to contribute my skills to a dynamic team that values collaboration, best practices, and innovative solutions. With a solid foundation in development and a keen interest in software development and support, I am looking for opportunities to expand my expertise and contribute to a wide range of technical challenges.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
